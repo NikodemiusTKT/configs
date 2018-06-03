@@ -1,0 +1,8 @@
+[user]
+	email = teemu.tanninen@student.lut.fi
+	name = Teemu
+	signingkey = D836CC24D7B36338
+[credential]
+	helper = cache --timeout=3600
+[comit]
+	gpgsign = true
